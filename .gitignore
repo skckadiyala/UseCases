@@ -1,0 +1,9 @@
+.metadata
+*/ProvarANT/*
+!*/ProvarANT/build.xml
+*/bin/*
+*/*.pdf
+.provarCaches
+.testcycles
+.DS_Store
+.DS_Store
